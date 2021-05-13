@@ -1,8 +1,8 @@
 {
   "name": "Yashraj",
   "short_name": "YashrajDawkhar",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "background_color": "#73ffa4",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",

@@ -1,8 +1,8 @@
 {
-  "name": "Yashraj",
-  "short_name": "YashrajDawkhar",
-  "theme_color": "#ff0000",
-  "background_color": "#73ffa4",
+  "name": "PWA Demo",
+  "short_name": "PWA",
+  "theme_color": "#00085c",
+  "background_color": "#d0d6d5",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
